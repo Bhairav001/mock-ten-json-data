@@ -1,0 +1,83 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "name": "Gertrudis Tatterton",
+        "email": "gtatterton0@ehow.com",
+        "password":"23"
+      },
+      {
+        "id": 2,
+        "name": "Gail Newbatt",
+        "email": "gnewbatt1@un.org",
+        "password":"3"
+      },
+      {
+        "id": 3,
+        "name": "Walliw Wilstead",
+        "email": "wwilstead2@tripadvisor.com",
+        "password":"3"
+      },
+      {
+        "id": 4,
+        "name": "Abran Proback",
+        "email": "aproback3@theglobeandmail.com",
+        "password":"13"
+      },
+      {
+        "id": 5,
+        "name": "Roda Chappelow",
+        "email": "rchappelow4@oaic.gov.au",
+        "password":"3"
+      },
+      {
+        "id": 6,
+        "name": "Karney Wylie",
+        "email": "kwylie5@miitbeian.gov.cn",
+        "password":"23"
+      },
+      {
+        "id": 7,
+        "name": "Cammi Pimbley",
+        "email": "cpimbley6@nyu.edu",
+        "password":"23"
+      },
+      {
+        "id": 8,
+        "name": "Gavra Manning",
+        "email": "gmanning7@lycos.com",
+        "password":"23"
+      },
+      {
+        "id": 9,
+        "name": "Zachary Seward",
+        "email": "zseward8@oracle.com",
+        "password":"23"
+      },
+      {
+        "id": 10,
+        "name": "Chucho Norssister",
+        "email": "cnorssister9@mayoclinic.com",
+        "password":"23"
+      }
+    ],
+    "Tracker":[
+        {
+            "income":"Salary,Gifts,Refunds,Other",
+            "expense":"Food & Drinks, Shopping, Housing, Bills",
+            "Housing":"home",
+            "Bills":344,
+            "Vehicle":"honda",
+            "lifestyle":"brand"
+        },
+        {
+            "income":"Salary,Gifts,Refunds,Other",
+            "expense":"Food & Drinks, Shopping, Housing, Bills",
+            "Housing":"home and house",
+            "Bills":3434,
+            "Vehicle":"honda plus",
+            "lifestyle":"brand update"
+        }
+    ]
+
+  }
